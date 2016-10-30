@@ -1,0 +1,8 @@
+In the second plot, I draw the scatterplot of "VISITS","Total Circulation transaction","Librarians with Master's degree",
+and "Salary for the librarians".Interestingly, the more librarians with Master's degree, the more visits to the libraries. This
+maybe due to the reason that people with higher degrees can better assist the visitors in some level, like the ability to 
+explain library materials to visitors.The positive correlation between "visits" and “librarian salaries" also shows that higher 
+librarians' salaries, better services, more visits.
+
+In the next stage of my project, I am considering fitting different regression models with visits as the dependent variable, to
+better explore the correlation.
